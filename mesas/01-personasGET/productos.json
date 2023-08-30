@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto 1",
+    "precio": 100.0,
+    "stock": 10,
+    "codigo": "1234567890",
+    "publicado": true,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Producto 2",
+    "precio": 200.0,
+    "stock": 20,
+    "codigo": "9876543210",
+    "publicado": true,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "precio": 300.0,
+    "stock": 30,
+    "codigo": "0123456789",
+    "publicado": false,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Producto 4",
+    "precio": 400.0,
+    "stock": 40,
+    "codigo": "9012345678",
+    "publicado": true,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Producto 5",
+    "precio": 500.0,
+    "stock": 50,
+    "codigo": "8901234567",
+    "publicado": false,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Producto 6",
+    "precio": 600.0,
+    "stock": 60,
+    "codigo": "7890123456",
+    "publicado": true,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Producto 7",
+    "precio": 700.0,
+    "stock": 70,
+    "codigo": "6789012345",
+    "publicado": false,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Producto 8",
+    "precio": 800.0,
+    "stock": 80,
+    "codigo": "5678901234",
+    "publicado": true,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Producto 9",
+    "precio": 900.0,
+    "stock": 90,
+    "codigo": "4567890123",
+    "publicado": false,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Producto 10",
+    "precio": 1000.0,
+    "stock": 100,
+    "codigo": "3456789012",
+    "publicado": true,
+    "fecha_de_creacion": "2023-08-22T00:00:00Z"
+  }
+]
